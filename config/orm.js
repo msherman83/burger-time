@@ -44,11 +44,11 @@ function printQuestionMarks(num) {
 
 
 var orm = {
-    selectAll();
+//     selectAll();
 
-insertOne();
+// insertOne();
 
-updateOne();,
+// updateOne();,
 
 
 
